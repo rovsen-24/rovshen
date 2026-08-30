@@ -1,5 +1,5 @@
 <div align="center">
-### ⚡ Full-Stack Developer
+⚡ Full-Stack Developer
 </div>
 
 ---
